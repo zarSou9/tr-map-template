@@ -32,7 +32,7 @@ Failing to follow these standards may result in unexpected behaviour when deploy
 
 This file contains metadata about the map: functionality, formatting, content for the preview card of the map (map card), etc.. The following is a complete example with comments explaining all possible fields. Unless otherwise specified, assume fields to be required. If a field is not required, the value shown is its default value.
 
-```js
+```json5
 {
   "rootDir": "Root_Node_Example",  // Relative path to root node directory
   "title": "Title",  // Title on map card
