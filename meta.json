@@ -1,0 +1,11 @@
+{
+  "rootDir": "Root_Node_Example",
+  "title": "Title",
+  "note": "Note",
+  "coverRootDescription": "Cover Root Description",
+  "disableExpandAll": true,
+  "customSettings": {
+    "defaultMode": {},
+    "titlesMode": {}
+  }
+}
