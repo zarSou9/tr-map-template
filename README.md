@@ -1,4 +1,4 @@
-This is Template repo for creating a workspace for a research map on https://airesearchmaps.com
+This is template repo for creating a workspace to develop a map on [TRecursive.com](https://trecursive.com)
 
 ## Developing
 
