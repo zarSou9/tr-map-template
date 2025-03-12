@@ -27,6 +27,7 @@ Failing to follow these standards may result in unexpected behaviour when deploy
 - Node directories CANNOT have spaces: use underscores instead (they will be converted back to spaces on the site)
 - Each node's content should be in a markdown file named identically to its directory (with a .md extension)
 - See `/Root_Node_Example` and its contents for more details on formatting and structuring nodes
+- **Important:** After renaming `/Root_Node_Example` to your desired root node title (or whenever renaming), don't forget to update `.github/workflows/update-map.yml` to watch for changes in the new path, and to change the `rootDir` value in `meta.json`.
 
 ## `meta.json`
 
